@@ -35,11 +35,10 @@
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
-#### Silent Steps: Footsteps make no sound. Also prevents Sculk from being triggered. Max 1
-#### Quick Feet: Increase Speed by 2% per level. Max 5.
-#### Quick Draw: Bow - Increase Draw Speed by 5% per level. Max 5.
-#### Power Trigger: Crossbow - Increase Arrow Velocity by 5% per level. Max 3.
-#### Magic Intensity: Wands - Same thing as Sharpness but for Spell Power. Max 5.
+#### Quick Feet: Increase Speed by 2% per level. Max 5. [DONE]
+#### Quick Draw: Bow - Increase Draw Speed by 5% per level. Max 5. [DONE]
+#### Power Trigger: Crossbow - Increase Arrow Velocity by 5% per level. Max 3. [DONE]
+#### Magic Intensity: Wands - Same thing as Sharpness but for Spell Power. Max 5. [DONE]
 
 ### Recipe:
 #### Enigmatic Potion: Water Bottle + Flower Nectar. [DONE]
