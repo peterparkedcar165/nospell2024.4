@@ -34,7 +34,7 @@
 ##### Active Spell: Healing Monarch - Unleash a magical gust forward that heals allies by a small amount. You are healed half the amount.
 
 ### Enchantments
-#### Vitality: Armor Pieces - 1 HP per level. Max 5.
+#### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
 #### Silent Steps: Footsteps make no sound. Also prevents Sculk from being triggered. Max 1
 #### Quick Feet: Increase Speed by 2% per level. Max 5.
 #### Quick Draw: Bow - Increase Draw Speed by 5% per level. Max 5.
