@@ -38,6 +38,10 @@
 #### Quick Draw: Bow - Increase Draw Speed by 5% per level. Max 5. [DONE]
 #### Power Trigger: Crossbow - Increase Arrow Velocity by 5% per level. Max 3. [DONE]
 #### Magic Intensity: Wands - Same thing as Sharpness but for Spell Power. Max 5. [DONE]
+#### Brambled Buckler: Shield - Blocking melee attacks deal damage equal to 20/40/60% Attack Damage. Max 3
+#### Hurricane: Bow - Each 2 arrow shots hit will launch another arrow. Max 1
+#### Arrow Flurry: Bow - Each arrow hit increases Draw Speed by 10%. Up to 100%. Max 1.
+#### Explosive Bolts: Crossbow - Each arrow hit deals AoE damage and an extra instance of explosive damage, AoE damage is 2/3/4. Max 3.
 
 ### Recipe:
 #### Enigmatic Potion: Water Bottle + Flower Nectar. [DONE]
