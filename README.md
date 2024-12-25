@@ -3,8 +3,7 @@
 # No Spell
 
 ## Mechanics:
-### This mod will add no active spells, but rather passives, and changes in mechanics.
-
+### This mod will add classes with ONE active spell. No Origins used.
 ## Identities:
 ### Class
 #### Archer
