@@ -50,3 +50,7 @@
 #### Nurturing Potion: Enigmatic Potion + Golden Apple. [TO BE CHANGED]
 #### True Shot Potion: Enigmatic Potion + Blaze Rod. 
 #### Dexterity Potion: Enigmatic Potion + Feather.
+
+### Attributes:
+#### Max Cooldown: The duration of the skill's cooldown as a placeholder number. This value changes by Attribute Multiplier with CDR.
+#### Cooldown: The duration of the skills' cooldown. This value is the actual cooldown, and will be set to the Max Cooldown when cast. This value always moves
