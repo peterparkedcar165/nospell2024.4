@@ -9,7 +9,9 @@
 #### Archer
 ##### Increase Arrow Velocity and Draw Speed [DONE]
 ##### Crafted Arrows yield 6 instead of 4. [DONE]
-##### Every 3 Arrow hits is guaranteed to crit. 
+##### Every 3 Arrow hits is guaranteed to crit. [DONE]
+##### Active: Volley - HAS TWO STYLES: Bow - Cast to gain Volley effect for a few seconds. While in this state, aiming with a Bow allows you to shoot multiple arrows at once with your left-click.
+##### Crossbow - Cast to shoot a few arrows in a cone. Can pierce, based on current Piercing enchantment.
 
 #### Warrior
 ##### Increase Max Health, Attack Damage and Attack Speed. [DONE]
