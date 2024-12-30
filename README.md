@@ -10,14 +10,15 @@
 ##### Increase Arrow Velocity and Draw Speed [DONE]
 ##### Crafted Arrows yield 6 instead of 4. [DONE]
 ##### Every 3 Arrow hits is guaranteed to crit. [DONE]
-##### Active: Volley - HAS TWO STYLES: 
-###### Bow - Cast to gain Volley effect for a few seconds. While in this state, aiming with a Bow allows you to shoot multiple arrows at once with your left-click.
-###### Crossbow - Cast to shoot a few arrows in a cone. Can pierce, based on current Piercing enchantment.
+##### Active: Volley - HAS TWO STYLES: [DONE]
+###### Bow - Cast to gain Volley effect for a few seconds. While in this state, aiming with a Bow allows you to shoot multiple arrows at once with your left-click. [DONE]
+###### Crossbow - Cast to shoot a few arrows in a cone. Can pierce, based on current Piercing enchantment. [DONE]
 
 #### Warrior
 ##### Increase Max Health, Attack Damage and Attack Speed. [DONE]
 ##### When wielding Shield, increase block chance by 10%. [DONE]
 ##### Killing an enemy restores 10% Health, and restore 2 durability for the main weapon. [DONE]
+##### Active: Sworderang - Shoot a Sword boomerang that moves forward a small distance then comes back. Enemies caught in the way will be taken with the sword by a small degree and damaged a lot. If the Sword returns, cooldown reduced by half.
 
 #### Wizard
 ##### Increase Spell Power by 2, and Attack Speed by 0.25. [DONE]
@@ -42,9 +43,9 @@
 #### Power Trigger: Crossbow - Increase Arrow Velocity by 5% per level. Max 3. [DONE]
 #### Magic Intensity: Wands - Same thing as Sharpness but for Spell Power. Max 5. [DONE]
 #### Brambled Buckler: Shield - Blocking melee attacks deal damage equal to 20/40/60% Attack Damage. Max 3
-#### Hurricane: Bow - Each 2 arrow shots hit will launch another arrow. Max 1
 #### Arrow Flurry: Bow - Each arrow hit increases Draw Speed by 10%. Up to 100%. Max 1.
 #### Explosive Bolts: Crossbow - Each arrow hit deals AoE damage and an extra instance of explosive damage, AoE damage is 2/3/4. Max 3.
+#### Benevolence: Wand - +5% Healing Power per level. Max 5.
 
 ### Recipe:
 #### Enigmatic Potion: Water Bottle + Flower Nectar. [DONE]
