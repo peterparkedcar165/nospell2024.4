@@ -33,8 +33,8 @@
 ##### Killing enemies drop souls that heal based on Spell Power.
 ##### Cannot use Shield [DONE]
 
-##### Main Attack: Spirit Bolt - Shoot a magical hex bolt that damages the first entity hit or heals them based on whether they are friendly or not.
-##### Active Spell: Healing Monarch - Unleash a magical gust forward that heals allies by a small amount. You are healed half the amount.
+##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit or heals them based on whether they are friendly or not.
+##### Active Spell: Rejuvenating Dust - Unleash a magical gust forward that heals allies by a small amount. You are healed half the amount.
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
