@@ -32,7 +32,8 @@
 ##### Increase Spell Power by 1. [DONE]
 ##### Cannot use Shield [DONE]
 
-##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE]
+##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit, and applies Blight. [DONE]
+###### Blight: Players that attack this unit are granted the Phantasm effect, increasing Attack Speed and Draw Speed by 25%.
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
 ### Enchantments
