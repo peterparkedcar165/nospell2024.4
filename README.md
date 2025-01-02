@@ -28,6 +28,14 @@
 ###### Blight: Players that attack this unit are granted the Phantasm effect, increasing Attack Speed and Draw Speed by 25%.
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
+#### Beastmaster
+##### Increase Spell Power by 1.
+##### Cannot use Shield.
+##### Tamed animals have increased Health, Armor, and Speed. Tamed wolves have increased Attack Damage.
+
+##### Main Attack: Magic Bolt - Shoot a magical bolt that damages the first entity hit.
+##### Active Spell: Summon: Companion Wolf - Summon a Wolf that has increased stats.
+
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
 #### Quick Feet: Increase Speed by 2% per level. Max 5. [DONE]
