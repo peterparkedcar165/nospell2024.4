@@ -20,14 +20,6 @@
 ##### Killing an enemy restores 10% Health, and restore 2 durability for the main weapon. [DONE]
 ##### Active: Sworderang - Shoot a Sword boomerang that moves forward a small distance then comes back. Enemies caught in the way will be taken with the sword by a small degree and damaged a lot. If the Sword returns, cooldown reduced by half.
 
-#### Wizard (IDEA, ELEMENTAL BASED, PRESS Z IN SPECIFIC BIOME TO GAIN NEW ABILITIES)
-##### Increase Spell Power by 2, and Attack Speed by 0.25. [DONE]
-##### Cannot use Shield [DONE]
-##### Decrease Health by 2 hearts. [DONE]
-
-##### Main Attack: Magic Bolt - Shoot a magic bolt that damages the first entity hit.
-##### Active Spell: Magic Blast - Shoot a large magic orb that explodes, deals AoE damage and creates a field that damages and slows.
-
 #### Mystic
 ##### Increase Spell Power by 1. [DONE]
 ##### Cannot use Shield [DONE]
