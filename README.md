@@ -18,7 +18,7 @@
 ##### Increase Max Health, Attack Damage and Attack Speed. [DONE]
 ##### When wielding Shield, increase block chance by 10%. [DONE]
 ##### Killing an enemy restores 10% Health, and restore 2 durability for the main weapon. [DONE]
-##### Active: Sworderang - Shoot a Sword boomerang that moves forward a small distance then comes back. Enemies caught in the way will be taken with the sword by a small degree and damaged a lot. If the Sword returns, cooldown reduced by half.
+##### Active: Shield Bash - Dash forward while blocking, dealing damage to enemies that are caught in your path. If at least one enemy is hit, reduce the cooldown by 5 second. While this ability is in effect, your Block Chance is increased to 100%. Damage is equal to 35% of Armor, and 75% of Attack Damage. [DONE]
 
 #### Mystic
 ##### Increase Spell Power by 1. [DONE]
