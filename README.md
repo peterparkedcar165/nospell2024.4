@@ -20,17 +20,19 @@
 ##### Increase Armor Penetration by 3.
 ##### Active: Cannon Blast - Shoot a cannonball that explodes and deals damage and Burns.
 
-#### Warrior
-##### Increase Max Health, Attack Damage and Attack Speed. [DONE] --- CHANGE HEALTH TO ARMOR
-##### When wielding Shield, increase block chance by 10%. [DONE]
-##### Killing an enemy restores 10% Health, and restore 2 durability for the main weapon. [DONE]
-##### Active: Shield Bash - Dash forward while blocking, dealing damage to enemies that are caught in your path. If at least one enemy is hit, reduce the cooldown by 5 second. While this ability is in effect, your Block Chance is increased to 100%. Damage is equal to 35% of Armor, and 75% of Attack Damage. [DONE]
+#### Paladin
+##### Increase Armor, and Attack Damage. [DONE]
+##### When wielding Shield, increase block chance by 15%. [DONE]
+##### Restore self and nearby friendly players health by 1 every 3 seconds. [DONE]
+##### When blocking, reduce Radiant Renewal cooldown by 1 second. [DONE]
+##### Active: Radiant Renewal - Heal nearby allies negative status effects, and heal them by 4 + 25% Armor + 50% Attack Damage. LONG COOLDOWN. [DONE]
 
 #### Barbarian
 ##### Increase Attack Speed, Attack Damage, and Life Steal.
 ##### Increase total Max Health by 100%, and reduce total Armor by 50%.
 ##### Dual-Wielding Axes grant extra passive stats.
-##### Killing an enemy restores 10% of max health.
+##### Increase Parry Chance by 15%.
+##### Killing an enemy restores 10% Health, and restore 2 durability for the main weapon. [DONE]
 ##### Active: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%.
 
 #### Mystic
