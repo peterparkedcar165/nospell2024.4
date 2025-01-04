@@ -14,11 +14,24 @@
 ###### Bow - Cast to gain Volley effect for a few seconds. While in this state, aiming with a Bow allows you to shoot multiple arrows at once with your left-click. [DONE]
 ###### Crossbow - Cast to shoot a few arrows in a cone. Can pierce, based on current Piercing enchantment. [DONE]
 
+#### Cannoneer
+##### Increase Artillery Power by 1.
+##### Crafted Cannon Balls yield by 6 instead of 4.
+##### Increase Armor Penetration by 3.
+##### Active: Cannon Blast - Shoot a cannonball that explodes and deals damage and Burns.
+
 #### Warrior
-##### Increase Max Health, Attack Damage and Attack Speed. [DONE]
+##### Increase Max Health, Attack Damage and Attack Speed. [DONE] --- CHANGE HEALTH TO ARMOR
 ##### When wielding Shield, increase block chance by 10%. [DONE]
 ##### Killing an enemy restores 10% Health, and restore 2 durability for the main weapon. [DONE]
 ##### Active: Shield Bash - Dash forward while blocking, dealing damage to enemies that are caught in your path. If at least one enemy is hit, reduce the cooldown by 5 second. While this ability is in effect, your Block Chance is increased to 100%. Damage is equal to 35% of Armor, and 75% of Attack Damage. [DONE]
+
+#### Barbarian
+##### Increase Attack Speed, Attack Damage, and Life Steal.
+##### Increase total Max Health by 100%, and reduce total Armor by 50%.
+##### Dual-Wielding Axes grant extra passive stats.
+##### Killing an enemy restores 10% of max health.
+##### Active: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%.
 
 #### Mystic
 ##### Increase Spell Power by 1. [DONE]
