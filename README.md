@@ -50,6 +50,15 @@
 ##### Main Attack: Magic Bolt - Shoot a magical bolt that damages the first entity hit.
 ##### Active Spell: Summon: Companion Wolf - Summon a Wolf that has increased stats.
 
+#### Scientist
+##### Increase Spell Power by 1.
+##### Crafting bottles yield 4 instead of 3.
+##### Crafting Blaze Powder yields 4 instead of 2.
+##### Right-clicking a flower with an empty bottle fills up Flower Nectar.
+
+##### Main Attack: Potion Throw - Hurl splash potion that deal AoE magic damage.
+##### Active Spell: Potion of Duality - Hurl a splash potion forward that lingers on the floor. Damages enemies while regenerating allies health.
+
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
 #### Quick Feet: Increase Speed by 2% per level. Max 5. [DONE]
@@ -68,6 +77,7 @@
 #### Nurturing Potion: Enigmatic Potion + Golden Apple. [TO BE CHANGED]
 #### True Shot Potion: Enigmatic Potion + Blaze Rod. 
 #### Dexterity Potion: Enigmatic Potion + Feather.
+#### Wisdom Potion: Enigmatic Potion + Amethyst.
 
 ### Attributes:
 #### Max Cooldown: The duration of the skill's cooldown as a placeholder number. This value changes by Attribute Multiplier with CDR.
