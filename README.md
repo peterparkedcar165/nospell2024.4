@@ -15,10 +15,11 @@
 ###### Crossbow - Cast to shoot a few arrows in a cone. Can pierce, based on current Piercing enchantment. [DONE]
 
 #### Cannoneer
-##### Increase Artillery Power by 1.
-##### Crafted Cannon Balls yield by 6 instead of 4.
-##### Increase Armor Penetration by 3.
-##### Active: Cannon Blast - Shoot a cannonball that explodes and deals damage and Burns.
+##### Increase Artillery Power by 2. [DONE]
+##### Cannonballs deal AoE damage equal to half of the damage dealt.
+##### Crafted Cannon Balls yield by 6 instead of 4. [DONE]
+
+##### Active: Shrapnel Blast - Shoot a blast of shrapnels forward, dealing damage in an area and inflicted Shredded to targets, reducing Armor per damage instance. [DONE]
 
 #### Paladin
 ##### Increase Armor, and Attack Damage. [DONE]
