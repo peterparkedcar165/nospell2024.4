@@ -16,7 +16,7 @@
 
 #### Cannoneer
 ##### Increase Artillery Power by 2. [DONE]
-##### Cannonballs deal AoE damage equal to half of the damage dealt.
+##### Cannonballs deal AoE damage equal to half of a direct hit damage.
 ##### Crafted Cannon Balls yield by 6 instead of 4. [DONE]
 
 ##### Active: Shrapnel Blast - Shoot a blast of shrapnels forward, dealing damage in an area and inflicted Shredded to targets, reducing Armor per damage instance. [DONE]
