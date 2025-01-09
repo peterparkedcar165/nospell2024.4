@@ -53,6 +53,8 @@
 #### Arrow Flurry: Bow - Each arrow hit increases Draw Speed by 10%. Up to 100%. Max 1.
 #### Explosive Bolts: Crossbow - Each arrow hit deals AoE damage and an extra instance of explosive damage, AoE damage is 2/3/4. Max 3.
 #### Benevolence: Wand - +5% Healing Power per level. Max 5.
+#### Reflex: Axe - +5% Parry Chance per level. Max 3.
+#### Width: Shield - +5% Block Chance per level. Max 3. DOES NOT WORK ON MYSTIC
 
 ### Recipe:
 #### Potion of Nurturing: Awkward Potion + Apple. [DONE]
