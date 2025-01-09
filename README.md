@@ -16,7 +16,7 @@
 
 #### Cannoneer
 ##### Increase Artillery Power by 2. [DONE]
-##### Cannonballs deal AoE damage equal to half of a direct hit damage.
+##### Cannonballs deal AoE damage equal to half of a direct hit damage. [DONE]
 ##### Crafted Cannon Balls yield by 6 instead of 4. [DONE]
 
 ##### Active: Shrapnel Blast - Shoot a blast of shrapnels forward, dealing damage in an area and inflicted Shredded to targets, reducing Armor per damage instance. [DONE]
@@ -49,16 +49,27 @@
 ##### Tamed animals have increased Health, Armor, and Speed. Tamed wolves have increased Attack Damage.
 
 ##### Main Attack: Magic Bolt - Shoot a magical bolt that damages the first entity hit.
-##### Active Spell: Summon: Companion Wolf - Summon a Wolf that has increased stats.
+##### Active Spell: Summon: Companion Wolves - Fire a magical projectile forward, damaging the first entity hit and spawning 3 temporary wolves around them. These wolves target the target and have the same stats as regular tamed wolves.
 
 #### Scientist
-##### Increase Spell Power by 1.
+##### Increase Alchemy Power by 1.
 ##### Crafting bottles yield 4 instead of 3.
 ##### Crafting Blaze Powder yields 4 instead of 2.
 ##### Right-clicking a flower with an empty bottle fills up Flower Nectar.
 
 ##### Main Attack: Potion Throw - Hurl splash potion that deal AoE magic damage.
 ##### Active Spell: Potion of Duality - Hurl a splash potion forward that lingers on the floor. Damages enemies while regenerating allies health.
+
+#### Pyromaniac
+##### Increase Alchemy Power by 2.
+##### Crafting Blaze Powder yields 4 instead of 2.
+##### Crafting bottles yield 4 instead of 2.
+##### Killing a fire-based mobs restores durability for weapon.
+##### Pyromaniac deals Fire-Magic type damage, meaning that it can still damage fire-based mobs, but deal half damage instead.
+
+##### Main Attack: Flame Flask - Hurl a fire splash potion that deals AoE damage and sets targets on fire, also creating a small field of fire on the ground.
+
+##### Active Spell 1: Fire Wall - Breathe a wind of fire that slowly moves forward and damages enemies over time that are stuck within the wall.
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
