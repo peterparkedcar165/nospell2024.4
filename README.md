@@ -43,34 +43,6 @@
 ##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE]
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
-#### Beastmaster
-##### Increase Spell Power by 1.
-##### Cannot use Shield.
-##### Tamed animals have increased Health, Armor, and Speed. Tamed wolves have increased Attack Damage.
-
-##### Main Attack: Magic Bolt - Shoot a magical bolt that damages the first entity hit.
-##### Active Spell: Summon: Companion Wolves - Fire a magical projectile forward, damaging the first entity hit and spawning 3 temporary wolves around them. These wolves target the target and have the same stats as regular tamed wolves.
-
-#### Scientist
-##### Increase Alchemy Power by 1.
-##### Crafting bottles yield 4 instead of 3.
-##### Crafting Blaze Powder yields 4 instead of 2.
-##### Right-clicking a flower with an empty bottle fills up Flower Nectar.
-
-##### Main Attack: Potion Throw - Hurl splash potion that deal AoE magic damage.
-##### Active Spell: Potion of Duality - Hurl a splash potion forward that lingers on the floor. Damages enemies while regenerating allies health.
-
-#### Pyromaniac
-##### Increase Alchemy Power by 2.
-##### Crafting Blaze Powder yields 4 instead of 2.
-##### Crafting bottles yield 4 instead of 2.
-##### Killing a fire-based mobs restores durability for weapon.
-##### Pyromaniac deals Fire-Magic type damage, meaning that it can still damage fire-based mobs, but deal half damage instead.
-
-##### Main Attack: Flame Flask - Hurl a fire splash potion that deals AoE damage and sets targets on fire, also creating a small field of fire on the ground.
-
-##### Active Spell 1: Fire Wall - Breathe a wind of fire that slowly moves forward and damages enemies over time that are stuck within the wall.
-
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
 #### Quick Feet: Increase Speed by 2% per level. Max 5. [DONE]
@@ -83,14 +55,13 @@
 #### Benevolence: Wand - +5% Healing Power per level. Max 5.
 
 ### Recipe:
-#### Enigmatic Potion: Water Bottle + Flower Nectar. [DONE]
-#### Deadly Poison Potion: Enigmatic Potion + Spider Eye. [DONE]
-#### Sundering Potion: Enigmatic Potion + Blaze Powder. [DONE]
-#### Nurturing Potion: Enigmatic Potion + Golden Apple. [TO BE CHANGED]
-#### True Shot Potion: Enigmatic Potion + Blaze Rod. 
-#### Dexterity Potion: Enigmatic Potion + Feather.
-#### Wisdom Potion: Enigmatic Potion + Amethyst.
+#### Potion of Nurturing: Awkward Potion + Apple. [DONE]
+#### Potion of Wisdom: Awkward Potion + Amethyst. [DONE]
 
 ### Attributes:
-#### Max Cooldown: The duration of the skill's cooldown as a placeholder number. This value changes by Attribute Multiplier with CDR.
-#### Cooldown: The duration of the skills' cooldown. This value is the actual cooldown, and will be set to the Max Cooldown when cast. This value always moves
+#### Cooldown: Cooldown of abilities.
+#### Spell Power: Dictates the power of magic spells.
+#### Artillery Power: Dictates the power of cannon spells.
+#### Block Chance: Change to trigger a block
+#### Evasion Chance: Chance to trigger a dodge
+#### Parry Chance: Chance to trigger a parry, returning damage equal to half of the attacker's Attack Damage
