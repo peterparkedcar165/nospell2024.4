@@ -37,7 +37,7 @@
 ##### Active: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
 
 #### Mystic
-##### Increase Spell Power by 1. [DONE]
+##### Increase Spell Power by 2. [DONE]
 ##### Cannot use Shield [DONE]
 ##### While wielding a Totem of Undying in the off-hand, reduce Rejuvenating Dust cooldown by 4 seconds. [DONE]
 
