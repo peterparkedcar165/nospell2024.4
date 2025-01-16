@@ -41,7 +41,7 @@
 ##### Cannot use Shield [DONE]
 ##### While wielding a Totem of Undying in the off-hand, reduce Rejuvenating Dust cooldown by 4 seconds. [DONE]
 
-##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE]
+##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE] (This is the regular attack with wands, but Mystics fire twice as fast)
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
 ### Enchantments
