@@ -39,6 +39,7 @@
 #### Mystic
 ##### Increase Spell Power by 1. [DONE]
 ##### Cannot use Shield [DONE]
+##### While wielding a Totem of Undying in the off-hand, reduce Rejuvenating Dust cooldown by 4 seconds. [DONE]
 
 ##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE]
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
@@ -50,11 +51,9 @@
 #### Power Trigger: Crossbow - Increase Arrow Velocity by 5% per level. Max 3. [DONE]
 #### Magic Intensity: Wands - Same thing as Sharpness but for Spell Power. Max 5. [DONE]
 #### Brambled Buckler: Shield - Blocking melee attacks deal damage equal to 20/40/60% Attack Damage. Max 3 [DONE]
-#### Arrow Flurry: Bow - Each arrow hit increases Draw Speed by 10%. Up to 100%. Max 1.
-#### Explosive Bolts: Crossbow - Each arrow hit deals AoE damage and an extra instance of explosive damage, AoE damage is 2/3/4. Max 3.
-#### Benevolence: Wand - +5% Healing Power per level. Max 5.
-#### Reflex: Axe - +5% Parry Chance per level. Max 3.
-#### Width: Shield - +5% Block Chance per level. Max 3. DOES NOT WORK ON MYSTIC
+#### Benevolence: Wand - +5% Healing Power per level. Max 5. [DONE]
+#### Reflex: Axe - +5% Parry Chance per level. Max 3. [DONE]
+#### Width: Shield - +10% Block Chance per level. Max 3. DOES NOT WORK ON MYSTIC [DONE]
 
 ### Recipe:
 #### Potion of Nurturing: Awkward Potion + Apple. [DONE]
