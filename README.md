@@ -8,7 +8,7 @@
 ### Class
 #### Archer
 ##### Increase Arrow Velocity and Draw Speed [DONE]
-##### Crafted Arrows yield 6 instead of 4. [DONE]
+##### Killing a hostile has a 50% chance to drop Regular Arrows (2 rolls of 50% each). [DONE]
 ##### Every 3 Arrow hits is guaranteed to crit. [DONE]
 ##### Active: Volley - HAS TWO STYLES: [DONE]
 ###### Bow - Cast to gain Volley effect for a few seconds. While in this state, aiming with a Bow allows you to shoot multiple arrows at once with your left-click. [DONE]
@@ -17,7 +17,7 @@
 #### Cannoneer
 ##### Increase Artillery Power by 2. [DONE]
 ##### Cannonballs deal AoE damage equal to half of a direct hit damage. [DONE]
-##### Crafted Cannon Balls yield by 6 instead of 4. [DONE]
+##### Killing a hostile has a 50% chance to drop Cannonballs (2 rolls of 50% each). [DONE]
 
 ##### Active: Shrapnel Blast - Shoot a blast of shrapnels forward, dealing damage in an area and inflicted Shredded to targets, reducing Armor per damage instance. [DONE]
 
