@@ -29,10 +29,9 @@
 ##### Active: Radiant Renewal - Heal nearby allies negative status effects, and heal them by 4 + 25% Armor + 50% Attack Damage. LONG COOLDOWN. [DONE]
 
 #### Barbarian
-##### Increase Attack Speed, Attack Damage, and Life Steal. [DONE]
+##### Increase Attack Speed, Attack Damage, and Parry Chance. [DONE]
 ##### Increase total Max Health by 100%, and reduce total Armor by 50%. [DONE]
 ##### Dual-Wielding Axes grant extra passive stats. [DONE]
-##### Increase Parry Chance by 15%. [DONE]
 ##### Killing an enemy restores 10% Health, restore 2 durability for the main weapon, and restore Barbaric Dash cooldown by 2. [DONE]
 ##### Active: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
 
@@ -58,6 +57,13 @@
 ### Recipe:
 #### Potion of Nurturing: Awkward Potion + Apple. [DONE]
 #### Potion of Wisdom: Awkward Potion + Amethyst. [DONE]
+
+### Charms:
+#### Charm of Dexterity:
+#### Charm of Resilience:
+#### Charm of Fury:
+#### Charm of Spirituality:
+#### Charm of Destruction:
 
 ### Attributes:
 #### Cooldown: Cooldown of abilities.
