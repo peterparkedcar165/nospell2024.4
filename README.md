@@ -44,10 +44,10 @@
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
 #### [NEW] Chemist
-##### Increase Alchemy Power by 2.
-##### Immune to Poison and Wither
-##### Killing Blazes guarantees an extra Blaze Rod
-##### Harvesting Nether Wart guarantees two extra warts
+##### Increase Alchemy Power by 2. [DONE]
+##### Immune to Poison and Wither [DONE]
+##### Killing Blazes guarantees an extra Blaze Rod [DONE]
+##### Harvesting Nether Wart guarantees two extra warts [DONE]
 
 ##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles.
 ##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power
