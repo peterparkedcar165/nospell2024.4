@@ -3,7 +3,7 @@
 # No Spell
 
 ## Mechanics:
-### This mod will add classes with ONE active spell. No Origins used. At Level 50, they are able to unlock their Secondary Spell. Upon reaching 50, they acquire the advancement that allows them to use a scroll to Unlock their skill.
+### This mod will add classes with ONE active spell. No Origins used. At Level 50, they are able to unlock their Secondary Abilities. Upon reaching 50, they acquire the advancement that allows them to use a scroll to Unlock their skill.
 
 ## Identities:
 ### Class
@@ -62,6 +62,13 @@
 ##### 4- Empower: Increase Attack Damage, Spell Power, Alchemy Power, Artillery Power, all by 2 per level, and Arrow Damage by 0.1 per level. [DONE]
 
 ##### Durations and amplifier will be increased when above Alchemy Power >= 10. [DONE]
+
+### Secondary Abilities: 
+#### Archer: [PASSIVE] - On Focus crit procs, launch another Arrow at the target.
+#### Paladin: [PASSIVE] - Friends affected will be granted Absorption 2 and 8 Armor.
+#### Barbarian: [PASSIVE] - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
+#### Mystic: [PASSIVE] - Rejuvenating Dust grants a boost in Movement Speed to Players affected.
+#### Chemist: An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles.
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
