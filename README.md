@@ -26,7 +26,7 @@
 ##### When wielding Shield, increase block chance by 15%. [DONE]
 ##### Restore self and nearby friendly players health by 1 every 3 seconds. [DONE]
 ##### When blocking, reduce Radiant Renewal cooldown by 1 second. [DONE]
-##### Active: Radiant Renewal - Heal nearby allies negative status effects, and heal them by 4 + 25% Armor + 50% Attack Damage. LONG COOLDOWN. [DONE]
+##### Active: Radiant Renewal - Heal nearby allies by 5 + 35% Armor + 50% Attack Damage. LONG COOLDOWN. [DONE]
 
 #### Barbarian
 ##### Increase Attack Speed, Attack Damage, and Parry Chance. [DONE]
@@ -46,6 +46,8 @@
 #### [NEW] Chemist
 ##### Increase Alchemy Power by 2.
 ##### Immune to Poison and Wither
+##### Killing Blazes guarantees an extra Blaze Rod
+##### Harvesting Nether Wart guarantees two extra warts
 
 ##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles.
 ##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power
@@ -58,12 +60,13 @@
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
 #### Quick Feet: Increase Speed by 2% per level. Max 5. [DONE]
 #### Quick Draw: Bow - Increase Draw Speed by 5% per level. Max 5. [DONE]
-#### Power Trigger: Crossbow - Increase Arrow Velocity by 5% per level. Max 3. [DONE]
+#### Power Trigger: Crossbow/Cannon - Increase Artillery Power by 1 and Arrow Velocity by 5% per level. Max 3. [DONE]
 #### Magic Intensity: Wands - Same thing as Sharpness but for Spell Power. Max 5. [DONE]
 #### Brambled Buckler: Shield - Blocking melee attacks deal damage equal to 20/40/60% Attack Damage. Max 3 [DONE]
 #### Benevolence: Wand - +5% Healing Power per level. Max 5. [DONE]
 #### Reflex: Axe - +5% Parry Chance per level. Max 3. [DONE]
 #### Width: Shield - +10% Block Chance per level. Max 3. DOES NOT WORK ON MYSTIC [DONE]
+#### Alchemy Proficiecy - Increase Alchemy Power by 1 per level. [DONE BUT I DIDN'T CREATE THE ALCHEMY WEAPONS YET]
 
 ### Recipe:
 #### Potion of Nurturing: Awkward Potion + Apple. [DONE]
