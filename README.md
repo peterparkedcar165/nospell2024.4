@@ -3,7 +3,8 @@
 # No Spell
 
 ## Mechanics:
-### This mod will add classes with ONE active spell. No Origins used. At Level 50, they are able to unlock their Ultimate Spell. Upon reaching 50, they acquire the advancement that allows them to use a scroll to Unlock their skill.
+### This mod will add classes with ONE active spell. No Origins used. At Level 50, they are able to unlock their Secondary Spell. Upon reaching 50, they acquire the advancement that allows them to use a scroll to Unlock their skill.
+
 ## Identities:
 ### Class
 #### Archer
