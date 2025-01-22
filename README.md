@@ -55,8 +55,8 @@
 ##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles. [DONE]
 
 ##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power
-##### 1- Refresh: Heals for 2 per level and 0.5 -> 0.25 second interval regeneration.
-##### 2- Endure: Grants 4 + 2 of Absorption hearts per level and increases Armor by 6 + 4 per level of Armor4.
+##### 1- Refresh: Heals for 2 per level and 1 -> 0.5 second interval regeneration.
+##### 2- Endure: Increases Armor by 6 per level, Armor Toughness by 5 per level, and Knockback Resistane by 0.2 per level.
 ##### 3- Excite: Increase Movement Speed by 10% + 5% per level, Attack Speed by 0.25 per level, and Draw Speed by 0.25 per level.
 ##### 4- Empower: Increase Attack Damage, Spell Power, Alchemy Power, Artillery Power, all by 2 per level, and Arrow Damage by 0.1 per level.
 
