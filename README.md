@@ -46,7 +46,7 @@
 
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
-#### [NEW] Chemist
+#### Chemist
 ##### Increase Alchemy Power by 2. [DONE]
 ##### Immune to Poison and Wither [DONE]
 ##### Killing Blazes guarantees an extra Blaze Rod [DONE]
@@ -54,13 +54,13 @@
 
 ##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles. [DONE]
 
-##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power
-##### 1- Refresh: Heals for 2 per level and 1 -> 0.5 second interval regeneration.
-##### 2- Endure: Increases Armor by 6 per level, Armor Toughness by 5 per level, and Knockback Resistane by 0.2 per level.
-##### 3- Excite: Increase Movement Speed by 10% + 5% per level, Attack Speed by 0.25 per level, and Draw Speed by 0.25 per level.
-##### 4- Empower: Increase Attack Damage, Spell Power, Alchemy Power, Artillery Power, all by 2 per level, and Arrow Damage by 0.1 per level.
+##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power [DONE]
+##### 1- Refresh: Heals for 2 per level and 1 -> 0.5 second interval regeneration. [DONE]
+##### 2- Endure: Increases Armor by 6 per level, Armor Toughness by 5 per level, and Knockback Resistane by 0.2 per level. [DONE]
+##### 3- Excite: Increase Movement Speed by 10% + 5% per level, Attack Speed by 0.25 per level, and Draw Speed by 0.25 per level. [DONE]
+##### 4- Empower: Increase Attack Damage, Spell Power, Alchemy Power, Artillery Power, all by 2 per level, and Arrow Damage by 0.1 per level. [DONE]
 
-##### Durations and amplifier will be increased when above Alchemy Power >= 10.
+##### Durations and amplifier will be increased when above Alchemy Power >= 10. [DONE]
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
