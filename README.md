@@ -10,6 +10,7 @@
 ##### Increase Arrow Velocity and Draw Speed [DONE]
 ##### Killing a hostile has a 50% chance to drop Regular Arrows (2 rolls of 50% each). [DONE]
 ##### Every 3 Arrow hits is guaranteed to crit. [DONE]
+
 ##### Active: Volley - HAS TWO STYLES: [DONE]
 ###### Bow - Cast to gain Volley effect for a few seconds. While in this state, aiming with a Bow allows you to shoot multiple arrows at once with your left-click. [DONE]
 ###### Crossbow - Cast to shoot a few arrows in a cone. Can pierce, based on current Piercing enchantment. [DONE]
@@ -19,7 +20,7 @@
 ##### Cannonballs deal AoE damage equal to half of a direct hit damage. [DONE]
 ##### Killing a hostile has a 50% chance to drop Cannonballs (2 rolls of 50% each). [DONE]
 
-##### Active: Shrapnel Blast - Shoot a blast of shrapnels forward, dealing damage in an area and inflicted Shredded to targets, reducing Armor per damage instance. [DONE]
+##### Active Spell: Shrapnel Blast - Shoot a blast of shrapnels forward, dealing damage in an area and inflicted Shredded to targets, reducing Armor per damage instance. [DONE]
 
 #### Paladin
 ##### Increase Armor, and Attack Damage. [DONE]
@@ -33,7 +34,8 @@
 ##### Increase total Max Health by 100%, and reduce total Armor by 50%. [DONE]
 ##### Dual-Wielding Axes grant extra passive stats. [DONE]
 ##### Killing an enemy restores 10% Health, restore 2 durability for the main weapon, and restore Barbaric Dash cooldown by 2. [DONE]
-##### Active: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
+
+##### Active Spell: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
 
 #### Mystic
 ##### Increase Spell Power by 2. [DONE]
@@ -41,6 +43,7 @@
 ##### While wielding a Totem of Undying in the off-hand, reduce Rejuvenating Dust cooldown by 4 seconds. [DONE]
 
 ##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE] (This is the regular attack with wands, but Mystics fire twice as fast)
+
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
 #### [NEW] Chemist
@@ -49,7 +52,8 @@
 ##### Killing Blazes guarantees an extra Blaze Rod [DONE]
 ##### Harvesting Nether Wart guarantees two extra warts [DONE]
 
-##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles.
+##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles. [DONE]
+
 ##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power
 ##### 1- Refresh: Heals for 2 + 20% Alchemy Power and 0.5 second interval regeneration for 4 + 20% Alchemy Power seconds.
 ##### 2- Endure: Grants 2 + 40% Alchemy Power of Absorption hearts and increases Armor by 4 + 50% Alchemy Power.
@@ -78,6 +82,7 @@
 #### Charm of Fury:
 #### Charm of Spirituality:
 #### Charm of Destruction:
+#### Charm of Innovation:
 
 ### Attributes:
 #### Cooldown: Cooldown of abilities.
