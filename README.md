@@ -43,6 +43,17 @@
 ##### Main Attack: Spirit Orb - Shoot a magical hex bolt that damages the first entity hit. [DONE] (This is the regular attack with wands, but Mystics fire twice as fast)
 ##### Active Spell: Rejuvenating Dust - Unleash a magical gust of dust forward that heals allies by a small amount. You are healed half the amount upon cast. [DONE]
 
+#### [NEW] Chemist
+##### Increase Alchemy Power by 2.
+##### Immune to Poison and Wither
+
+##### Main Attack: Potion Toss - Throw a chargeable Potion that deals damage to the first target hit and nearby hostiles.
+##### Active Spell: A Wide Selection - Toggle between different type of potions that offer different purposes, and throw them at long distances. All will scale on Alchemy Power
+##### 1- Refresh: Heals for 2 + 20% Alchemy Power and 0.5 second interval regeneration for 4 + 20% Alchemy Power seconds.
+##### 2- Endure: Grants 2 + 40% Alchemy Power of Absorption hearts and increases Armor by 4 + 50% Alchemy Power.
+##### 3- Excite: Increase Movement Speed by 10% + 0.01 * of Alchemy Power, Attack Speed by 0.25 + 0.25 * Alchemy Power, and Draw Speed by 0.25 + 0.25 * Alchemy Power
+##### 4- Empower: Increase Attack Damage, Spell Power, Alchemy Power, Artillery Power, all by 1 + 25% Alchemy Power.
+
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
 #### Quick Feet: Increase Speed by 2% per level. Max 5. [DONE]
