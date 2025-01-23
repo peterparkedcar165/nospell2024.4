@@ -4,6 +4,7 @@
 
 ## Mechanics:
 ### This mod will add classes with ONE active spell. No Origins used.
+### Physical attacks (explosions, arrows, melee) have a natural 25% chance of inflicting a Bleed on hostiles. Hostiles may also inflict the player with bleeding. Bleeding entities take 1 damage every 4 second, reduced by half for every amplifier of the effect. Max 2.
 
 ## Identities:
 ### Class
@@ -35,6 +36,7 @@
 ##### Increase total Max Health by 100%, and reduce total Armor by 50%. [DONE]
 ##### Dual-Wielding Axes grant extra passive stats. [DONE]
 ##### Killing an enemy restores 10% Health, restore 2 durability for the main weapon, and restore Barbaric Dash cooldown by 2. [DONE]
+##### Increase Bleed Chance by 35%, increase the Bleeding cap to ... (damage per 0.25 seconds, 5ticks).
 
 ##### Active Spell: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
 
@@ -66,9 +68,9 @@
 ### Secondary Abilities: 
 #### At Level 50, every class unlocks another ability that enhances a passive or the active.
 #### Archer: [PASSIVE] - Tailwind - On Focus crit procs, launch another Arrow at the target. [DONE]
-#### Cannoneer: [PASSIVE] - Explosive Expert - 50% chance to dodge all Explosion damage. Damaging a Creeper with Cannonballs instantly kills it, creating an explosion that damages nearby hostiles.
+#### Cannoneer: [PASSIVE] - Explosive Expert - 50% chance to dodge all Explosion damage. Damaging a Creeper with Cannonballs instantly kills it, creating an explosion that damages nearby hostiles. [DONE]
 #### Paladin: [PASSIVE] - Radiant Reinforcement - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance. [DONE]
-#### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
+#### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed. Each stack of Bleed grants you the same amplifier of Bloodthirst.
 #### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled. [DONE]
 #### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
 
