@@ -3,7 +3,7 @@
 # No Spell
 
 ## Mechanics:
-### This mod will add classes with ONE active spell. No Origins used. At Level 50, they are able to unlock their Secondary Abilities. Upon reaching 50, they acquire the advancement that allows them to use a scroll to Unlock their skill.
+### This mod will add classes with ONE active spell. No Origins used.
 
 ## Identities:
 ### Class
@@ -64,6 +64,7 @@
 ##### Durations and amplifier will be increased when above Alchemy Power >= 10. [DONE]
 
 ### Secondary Abilities: 
+#### At Level 50, every class unlocks another ability that enhances a passive or the active.
 #### Archer: [PASSIVE] - On Focus crit procs, launch another Arrow at the target.
 #### Paladin: [PASSIVE] - Friends affected will be granted Absorption 2 and 8 Armor.
 #### Barbarian: [PASSIVE] - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
