@@ -66,6 +66,7 @@
 ### Secondary Abilities: 
 #### At Level 50, every class unlocks another ability that enhances a passive or the active.
 #### Archer: [PASSIVE] - Tailwind - On Focus crit procs, launch another Arrow at the target. [DONE]
+#### Cannoneer: [PASSIVE] - Explosive Expert - 50% chance to dodge all Explosion damage. Damaging a Creeper with Cannonballs instantly kills it, creating an explosion that damages nearby hostiles.
 #### Paladin: [PASSIVE] - Radiant Reinforcement - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance. [DONE]
 #### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
 #### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled. [DONE]
