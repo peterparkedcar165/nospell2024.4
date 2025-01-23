@@ -68,7 +68,7 @@
 #### Archer: [PASSIVE] - On Focus crit procs, launch another Arrow at the target. [DONE]
 #### Paladin: [PASSIVE] - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance.
 #### Barbarian: [PASSIVE] - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
-#### Mystic: [PASSIVE] - Rejuvenating Dust grants a boost in Movement Speed to Players affected.
+#### Mystic: [PASSIVE] - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled.
 #### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
 
 ### Enchantments
@@ -80,7 +80,7 @@
 #### Brambled Buckler: Shield - Blocking melee attacks deal damage equal to 20/40/60% Attack Damage. Max 3 [DONE]
 #### Benevolence: Wand - +5% Healing Power per level. Max 5. [DONE]
 #### Reflex: Axe - +5% Parry Chance per level. Max 3. [DONE]
-#### Width: Shield - +10% Block Chance per level. Max 3. DOES NOT WORK ON MYSTIC [DONE]
+#### Polyangularity: Shield - +10% Block Chance per level. Max 3. DOES NOT WORK ON MYSTIC [DONE]
 #### Alchemy Proficiecy - Increase Alchemy Power by 1 per level. [DONE]
 
 ### Recipe:
