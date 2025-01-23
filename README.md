@@ -65,10 +65,10 @@
 
 ### Secondary Abilities: 
 #### At Level 50, every class unlocks another ability that enhances a passive or the active.
-#### Archer: [PASSIVE] - On Focus crit procs, launch another Arrow at the target. [DONE]
-#### Paladin: [PASSIVE] - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance.
-#### Barbarian: [PASSIVE] - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
-#### Mystic: [PASSIVE] - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled.
+#### Archer: [PASSIVE] - Tailwind - On Focus crit procs, launch another Arrow at the target. [DONE]
+#### Paladin: [PASSIVE] - Radiant Reinforcement - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance.
+#### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
+#### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled.
 #### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
 
 ### Enchantments
