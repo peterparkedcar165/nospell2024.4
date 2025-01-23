@@ -65,11 +65,11 @@
 
 ### Secondary Abilities: 
 #### At Level 50, every class unlocks another ability that enhances a passive or the active.
-#### Archer: [PASSIVE] - On Focus crit procs, launch another Arrow at the target.
+#### Archer: [PASSIVE] - On Focus crit procs, launch another Arrow at the target. [DONE]
 #### Paladin: [PASSIVE] - Friends affected will be granted Absorption 2 and 8 Armor.
 #### Barbarian: [PASSIVE] - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed
 #### Mystic: [PASSIVE] - Rejuvenating Dust grants a boost in Movement Speed to Players affected.
-#### Chemist: An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles.
+#### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
