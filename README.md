@@ -36,7 +36,6 @@
 ##### Increase total Max Health by 100%, and reduce total Armor by 50%. [DONE]
 ##### Dual-Wielding Axes grant extra passive stats. [DONE]
 ##### Killing an enemy restores 10% Health, restore 2 durability for the main weapon, and restore Barbaric Dash cooldown by 2. [DONE]
-##### Increase Bleed Chance by 35%, increase the Bleeding cap to ... (damage per 0.25 seconds, 5ticks).
 
 ##### Active Spell: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
 
@@ -93,7 +92,7 @@
 ### Charms:
 #### Charm of Dexterity:
 #### Charm of Resilience:
-#### Charm of Fury:
+#### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 8.
 #### Charm of Spirituality:
 #### Charm of Destruction:
 #### Charm of Innovation:
