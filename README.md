@@ -90,10 +90,10 @@
 #### Potion of Wisdom: Awkward Potion + Amethyst. [DONE]
 
 ### Charms:
-#### Charm of Dexterity:
-#### Charm of Resilience:
+#### Charm of Dexterity: Increase Volley piercing by 1. Low the Focus counter to 1.
+#### Charm of Resilience: Aura of Resilience: Increase your Attack Damage based on your Armor (10%?). Nearby friendly units have increased Armor based on 15% of your Armor, does not affect self.
 #### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 8.
-#### Charm of Spirituality:
+#### Charm of Spirituality: Increase Healing Bonus by 15%. Spirit Orb's hits summons a new projectile that slowly moves towards you, players intercepting it will be healed. (entity plz not projectile)
 #### Charm of Destruction:
 #### Charm of Innovation:
 
