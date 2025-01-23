@@ -94,8 +94,8 @@
 #### Charm of Resilience: Aura of Resilience: Increase your Attack Damage based on your Armor (10%?). Nearby friendly units have increased Armor based on 15% of your Armor, does not affect self.
 #### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 8.
 #### Charm of Spirituality: Increase Healing Bonus by 15%. Spirit Orb's hits summons a new projectile that slowly moves towards you, players intercepting it will be healed. (entity plz not projectile)
-#### Charm of Destruction:
-#### Charm of Innovation:
+#### Charm of Destruction: Cannonball damage will set all targets hit on fire. When killing a burning hostile, a small patch of flames appear underneath the corpse for a few seconds, damaging hostiles.
+#### Charm of Innovation: Increase your Movement Speed around players. Direct hits with Chemist Bottle reduce A Wide Selection's cooldown by 1 second.
 
 ### Attributes:
 #### Cooldown: Cooldown of abilities.
