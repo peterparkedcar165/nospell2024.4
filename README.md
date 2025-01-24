@@ -93,7 +93,7 @@
 #### Charm of Dexterity: Increase Volley piercing by 1. Low the Focus counter to 1.
 #### Charm of Resilience: Aura of Resilience: Increase your Attack Damage based on your Armor (10%?). Nearby friendly units have increased Armor based on 15% of your Armor, does not affect self.
 #### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 3.
-#### Charm of Spirituality: Increase Healing Bonus by 15%, and Attack Speed by 15%. Spirit Orb's marks targets. Allies that hit the mark detonates it, healing them by a small amount. You cannot detonate the mark.
+#### Charm of Spirituality: Increase Healing Bonus by 15%, and Attack Speed by 25%. Spirit Orb's marks targets. Allies that hit the mark detonates it, healing them by a small amount. You cannot detonate the mark.
 #### Charm of Destruction: Cannonball damage will set all targets hit on fire. When killing a burning hostile, a small patch of flames appear underneath the corpse for a few seconds, damaging hostiles.
 #### Charm of Innovation: Increase your Movement Speed around players. Direct hits with Chemist Bottle reduce A Wide Selection's cooldown by 1 second.
 
