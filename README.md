@@ -4,7 +4,7 @@
 
 ## Mechanics:
 ### This mod will add classes with ONE active spell. No Origins used.
-### Physical attacks (explosions, arrows, melee) have a natural 25% chance of inflicting a Bleed on hostiles. Hostiles may also inflict the player with bleeding. Bleeding entities take 1 damage every 4 second, reduced by half for every amplifier of the effect. Max 2.
+### Physical attacks (explosions, arrows, melee) have a natural 35% chance of inflicting a Bleed on living entities. Bleeding entities take 1 damage every 6 second, reduced by half for every amplifier of the effect. Max 3.
 
 ## Identities:
 ### Class
