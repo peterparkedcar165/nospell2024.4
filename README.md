@@ -69,7 +69,7 @@
 #### Archer: [PASSIVE] - Tailwind - On Focus crit procs, launch another Arrow at the target. [DONE]
 #### Cannoneer: [PASSIVE] - Explosive Expert - 50% chance to dodge all Explosion damage. Damaging a Creeper with Cannonballs instantly kills it, creating an explosion that damages nearby hostiles. [DONE]
 #### Paladin: [PASSIVE] - Radiant Reinforcement - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance. [DONE]
-#### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed. Each stack of Bleed grants you the same amplifier of Bloodthirst.
+#### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed. Each stack of Bleed grants you the same amplifier of Bloodthirst. [DONE]
 #### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled. [DONE]
 #### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
 
@@ -91,7 +91,7 @@
 
 ### Charms:
 #### Charm of Dexterity: Increase Volley piercing by 1. Low the Focus counter to 1. [DONE]
-#### Charm of Resilience: Aura of Resilience: Increase your Attack Damage based on your Armor (10%?). Nearby friendly units have increased Armor based on 15% of your Armor, does not affect self.
+#### Charm of Resilience: Aura of Resilience: Increase your Attack Damage based on your Armor (10%?). Nearby friendly units have increased Armor based on 15% of your Armor, does not affect self. [DONE]
 #### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 3. [DONE]
 #### Charm of Spirituality: Increase Healing Bonus by 15%, and Attack Speed by 25%. Spirit Orb's marks targets. Allies that hit the mark detonates it, healing them by a small amount. You cannot detonate the mark.
 #### Charm of Destruction: Cannonball damage will set all targets hit on fire. When killing a burning hostile, a small patch of flames appear underneath the corpse for a few seconds, damaging hostiles.
