@@ -95,7 +95,7 @@
 #### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 3. [DONE]
 #### Charm of Spirituality: Increase Healing Bonus by 15%, and Attack Speed by 25%. Spirit Orb's hits heal nearby allies by a very small amount. You are not affected by it.
 #### Charm of Destruction: Upon killing a hostile, a small patch of flames appear underneath the corpse for a few seconds, damaging hostiles.
-#### Charm of Innovation: Increase your Movement Speed around players. Direct hits with Chemist Bottle reduce A Wide Selection's cooldown by 1 second.
+#### Charm of Innovation: Increase your Movement Speed by 10% around players. Direct hits with Chemist Bottle reduce A Wide Selection's cooldown by 1 second.
 
 ### Attributes:
 #### Cooldown: Cooldown of abilities.
