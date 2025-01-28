@@ -89,8 +89,15 @@
 #### Potion of Nurturing: Awkward Potion + Apple. [DONE]
 #### Potion of Wisdom: Awkward Potion + Amethyst. [DONE]
 
+### Drops:
+#### Class Gemstones: 
+##### Warden, Wither, Dragon - will drop 1 random upon death.
+#### Class Charms:
+##### Warden, Wither, Dragon - will drop 1 random upon death.
+
+
 ### Charms:
-#### Charm of Dexterity: Increase Volley piercing by 1. Low the Focus counter to 1. [DONE]
+#### Charm of Dexterity: Increase Volley piercing by 1. Lower the Focus counter to 1. [DONE]
 #### Charm of Resilience: Aura of Resilience: Increase your Attack Damage based on your Armor (10%?). Nearby friendly units have increased Armor based on 15% of your Armor, does not affect self. [DONE]
 #### Charm of Fury: Increase Bleed Chance Bonus by 35%. Bleeding cap increased to 3. [DONE]
 #### Charm of Spirituality: Increase Healing Bonus by 15%, and Attack Speed by 25%. Spirit Orb's hits heal nearby allies by a very small amount. You are not affected by it. [DONE]
