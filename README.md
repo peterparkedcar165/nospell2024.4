@@ -94,7 +94,7 @@
 ##### Warden, Wither, Dragon - will drop 1 random upon death.
 #### Class Charms:
 ##### Warden, Wither, Dragon - will drop 1 random upon death.
-
+##### Cleric Master trades: 20 Emerald Blocks + Diamond Weapon
 
 ### Charms:
 #### Charm of Dexterity: Increase Volley piercing by 1. Lower the Focus counter to 1. [DONE]
