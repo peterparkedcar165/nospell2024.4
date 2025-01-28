@@ -64,10 +64,6 @@
 
 ##### Durations and amplifier will be increased when above Alchemy Power >= 10. [DONE]
 
-#### Engineer
-##### Increase Attack Damage by 2, and Attack Speed by 0.35 while carrying a Wrench.
-##### 
-
 ### Secondary Abilities: 
 #### At Level 50, every class unlocks another ability that enhances a passive or the active.
 #### Archer: [PASSIVE] - Tailwind - On Focus crit procs, launch another Arrow at the target. [DONE]
@@ -76,7 +72,6 @@
 #### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed. Each stack of Bleed grants you the same amplifier of Bloodthirst. [DONE]
 #### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled. [DONE]
 #### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
-#### Engineer: [PASSIVE] Jet Pack - Allows a permanent Elytra flight. You have a 8 seconds period of self-propelling, it only recharges while you're not Elytra flying. While flying in the Nether, gauge goes down half as fast. While flying, you may press an active ability button to fire an light-damage explosive.
 
 ### Enchantments
 #### Vitality: Armor Pieces - 1 HP per level. Max 5. [DONE]
