@@ -4,7 +4,6 @@
 
 ## Mechanics:
 ### This mod will add classes with ONE active spell. No Origins used.
-### Player attacks against hostiles can inflict bleed. Players have a base 0% chance.
 
 ## Identities:
 ### Class
@@ -36,7 +35,7 @@
 ##### Increase total Max Health by 100%, and reduce total Armor by 50%. [DONE]
 ##### Dual-Wielding Axes grant extra passive stats. [DONE]
 ##### Killing an enemy restores 10% Health, restore 2 durability for the main weapon, and restore Barbaric Dash cooldown by 2. [DONE]
-##### 15% Bleed Chance
+##### Attacks may inflict bleed on hostiles with a 15% Chance [DONE]
 
 ##### Active Spell: Barbaric Dash - Dash forward, and grant yourself the Berserk effect, increasing Attack Speed by 25%, and Movement Speed by 15%. [DONE]
 
