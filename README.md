@@ -70,7 +70,7 @@
 #### Cannoneer: [PASSIVE] - Explosive Expert - 50% chance to dodge all Explosion damage. Damaging a Creeper with Cannonballs instantly kills it, creating an explosion that damages nearby hostiles. [DONE]
 #### Paladin: [PASSIVE] - Radiant Reinforcement - Friends affected will be granted 10 Armor, 6 Armor Toughness and 25% Block Chance. [DONE]
 #### Barbarian: [PASSIVE] - Bloodthirsty - Attacks against bleeding Hostiles grants you Bloodthirst, increasing your Attack Speed. Each stack of Bleed grants you the same amplifier of Bloodthirst. [DONE]
-#### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and has its life duration doubled. [DONE]
+#### Mystic: [PASSIVE] - Alterred Powder - Rejuvenating Dust grants a boost in Movement Speed to Players affected, and reaches further. [DONE]
 #### Chemist: [ACTIVE] An Even Wider Selection - Toggle between different type of potions that offer different purposes, similar to the previous ones, except these ones have the opposite effects, and are mainly for hostiles. [DONE]
 
 ### Enchantments
@@ -94,7 +94,8 @@
 ##### Warden, Wither, Dragon - will drop 1 random upon death.
 #### Class Charms:
 ##### Warden, Wither, Dragon - will drop 1 random upon death.
-##### Cleric Master trades: 20 Emerald Blocks + Diamond Weapon
+##### Cleric Master trades: 20 Emerald Blocks + Spinel
+##### Regular mobs have a 0.25% chance of dropping 1 random of gemstone and charm.
 
 ### Charms:
 #### Charm of Dexterity: Increase Volley piercing by 1. Lower the Focus counter to 1. [DONE]
